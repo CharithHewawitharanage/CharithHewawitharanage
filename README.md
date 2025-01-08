@@ -44,7 +44,7 @@
 - 🛠️ Custom Software Development
 - 📈 Digital Marketing
 - 💎 Google Ads Partner
-- �� AI Model Training
+- 🤖 AI Model Training
 
 
 
