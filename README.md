@@ -6,12 +6,11 @@
 
 Building scalable web applications, AI-powered solutions, and innovative SaaS products for over 16 years.
 
-🇳🇿 Based in Auckland, New Zealand
-🤖 Passionate about AI, LLMs, Intelligent Automation & Modern Web Technologies
-💻 Specializing in Next.js, React, TypeScript, Node.js, Python, and Cloud Solutions
-🎨 Creating beautiful, user-centric digital experiences
-
-🌐 Portfolio: <a href="https://charith.co">https://charith.co
+🇳🇿 Based in Auckland, New Zealand<br>
+🤖 Passionate about AI, LLMs, Intelligent Automation & Modern Web Technologies<br>
+💻 Specializing in Next.js, React, TypeScript, Node.js, Python, and Cloud Solutions<br>
+🎨 Creating beautiful, user-centric digital experiences<br>
+🌐 <a href="https://charith.co">https://charith.co
 
 <h2 align="left">I code with</h2>
 
