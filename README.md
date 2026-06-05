@@ -1,12 +1,17 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World! 👋 I'm Charith, a Full Stack Developer from New Zealand 🥝
+# Hello World! 👋 I'm Charith
 
-🌟 Full Stack Web Developer, UI/UX Designer, SaaS Creator & AI Engineer with 16+ Years of Experience Building Scalable Applications, Training AI Models, and Designing Intelligent Digital Products.<br>
-🎨 Passionate about creating beautiful, functional web experiences<br>
-🏢 Based in Lynfield, Auckland, New Zealand<br>
-💼 Freelance developer specializing in web and software solutions<br>
-🌐 Check out my work at [charithhewawitharanage.me](https://charithhewawitharanage.me)
+🚀 Full Stack Developer | SaaS Creator | AI Engineer | UI/UX Designer
+
+Building scalable web applications, AI-powered solutions, and innovative SaaS products for over 16 years.
+
+🇳🇿 Based in Auckland, New Zealand
+🤖 Passionate about AI, LLMs, Intelligent Automation & Modern Web Technologies
+💻 Specializing in Next.js, React, TypeScript, Node.js, Python, and Cloud Solutions
+🎨 Creating beautiful, user-centric digital experiences
+
+🌐 Portfolio: <a href="https://charith.co">https://charith.co
 
 <h2 align="left">I code with</h2>
 
