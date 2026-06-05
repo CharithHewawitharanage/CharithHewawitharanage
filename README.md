@@ -2,7 +2,7 @@
 
 # Hello World! 👋 I'm Charith, a Full Stack Developer from New Zealand 🥝
 
-🌟 Full Stack Web Developer & UI/UX Designer with 10+ years of experience<br>
+🌟 FFull Stack Web Developer, UI/UX Designer, SaaS Creator & AI Engineer with 16+ Years of Experience Building Scalable Applications, Training AI Models, and Designing Intelligent Digital Products.<br>
 🎨 Passionate about creating beautiful, functional web experiences<br>
 🏢 Based in Lynfield, Auckland, New Zealand<br>
 💼 Freelance developer specializing in web and software solutions<br>
